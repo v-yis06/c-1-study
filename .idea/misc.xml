@@ -6,6 +6,8 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/juc-study/pom.xml" />
+        <option value="$PROJECT_DIR$/../course.163/subject-1/subject-1-source/concurrency-study/pom.xml" />
+        <option value="$PROJECT_DIR$/../course.163/subject-1/subject-1-source/chapter-2/chapter-2/pom.xml" />
       </list>
     </option>
   </component>
