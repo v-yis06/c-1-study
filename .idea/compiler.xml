@@ -8,11 +8,9 @@
         <outputRelativeToContentRoot value="true" />
         <module name="chapter-2" />
         <module name="juc-study" />
-        <module name="parent" />
+        <module name="concurrency-study" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="12">
-      <module name="concurrency-study" target="1.8" />
-    </bytecodeTargetLevel>
+    <bytecodeTargetLevel target="10" />
   </component>
 </project>

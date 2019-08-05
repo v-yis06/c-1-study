@@ -66,10 +66,10 @@ public class JamesLock implements Lock {
 
     @Override
     public Condition newCondition() {
-        for (;;){
-            a = ;
-            b = e;
-        }
+//        for (;;){
+//            a = ;
+//            b = e;
+//        }
         return null;
     }
 
